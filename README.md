@@ -16,3 +16,9 @@ Hello World!:
 ![imagen](https://user-images.githubusercontent.com/55292929/205718044-55b8d492-18d8-4517-a345-87ef899a0101.png)
 
 
+Segundo Hello World! Modificando el controller:
+
+![imagen](https://user-images.githubusercontent.com/55292929/205791114-8618ac86-a437-4973-baae-06c90bb29987.png)
+
+
+
