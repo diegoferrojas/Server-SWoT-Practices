@@ -22,7 +22,7 @@ Segundo Hello World! Modificando el controller:
 
 Pikachu:
 
-![imagen](https://user-images.githubusercontent.com/55292929/205792444-1325b3a5-b2ad-4ba2-8c66-7caf79b808bf.png)
+![imagen](https://user-images.githubusercontent.com/55292929/205792760-5164e160-f46b-475d-ad4a-edb32e8c8957.png)
 
 
 
