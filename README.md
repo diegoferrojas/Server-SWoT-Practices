@@ -20,5 +20,10 @@ Segundo Hello World! Modificando el controller:
 
 ![imagen](https://user-images.githubusercontent.com/55292929/205791114-8618ac86-a437-4973-baae-06c90bb29987.png)
 
+Pikachu:
+
+![imagen](https://user-images.githubusercontent.com/55292929/205792444-1325b3a5-b2ad-4ba2-8c66-7caf79b808bf.png)
+
+
 
 
